@@ -1,0 +1,5 @@
+{
+  "name": "Copy of BankVision - Smart Statement Analyzer",
+  "description": "A modern fintech dashboard that uses Gemini AI to extract, categorize, and visualize transactions from uploaded bank statements (PDF or Images).",
+  "requestFramePermissions": []
+}
